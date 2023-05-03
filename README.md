@@ -60,3 +60,8 @@ zEz1d0pDcFVBw3RTUi7qk6GMu/lHwm+HwP7RZUggW/7xvBPpiItrk4eWdn1AGEkZ
 2sVctXIEg8HE+L+O
 =G9EH
 -----END PGP PUBLIC KEY BLOCK-----
+
+
+### lab 6
+
+$ mkdir -p lab/sysDetails/reports
