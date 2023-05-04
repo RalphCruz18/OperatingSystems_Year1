@@ -62,8 +62,4 @@ zEz1d0pDcFVBw3RTUi7qk6GMu/lHwm+HwP7RZUggW/7xvBPpiItrk4eWdn1AGEkZ
 -----END PGP PUBLIC KEY BLOCK-----
 
 
-### lab 6
 
-$ mkdir -p lab/sysDetails/reports
-
- /workspaces/OperatingSystems_Year1/lab-6/systemStats.txt
